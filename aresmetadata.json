@@ -7,10 +7,25 @@
     { "trait_type": "Twitter", "value": "https://x.com/Mythic_Market" },
     { "trait_type": "Telegram", "value": "https://t.me/MythicalMarket" },
     { "trait_type": "Discord", "value": "https://discord.gg/g5wBE95Zpc" }
-  ]
+  ],
   "extensions": {
-    "website": "https://discord.gg/g5wBE95Zpc",
     "twitter": "https://x.com/Mythic_Market",
-    "telegram": "https://t.me/MythicalMarket"
+    "telegram": "https://t.me/MythicalMarket",
+    "discord": "https://discord.gg/g5wBE95Zpc"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Calejoel/ares-token-metadata/main/ARES.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FTEDiSoaARgy4w4LR2tDV2HLWabab2oywU5gAvsKdPQf",
+        "share": 100
+      }
+    ]
   }
 }
