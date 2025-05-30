@@ -1,8 +1,9 @@
 {
   "name": "ARES",
   "symbol": "ARES",
-  "description": "The Greek God of War is the ready to wage war on Solana.",
+  "description": "The Greek God of War is ready to wage war on Solana.",
   "image": "https://raw.githubusercontent.com/Calejoel/ares-token-metadata/main/ARES.png",
+  "external_url": "https://mythic.market",
   "attributes": [
     { "trait_type": "Twitter", "value": "https://x.com/Mythic_Market" },
     { "trait_type": "Telegram", "value": "https://t.me/MythicalMarket" },
@@ -12,6 +13,10 @@
     "twitter": "https://x.com/Mythic_Market",
     "telegram": "https://t.me/MythicalMarket",
     "discord": "https://discord.gg/g5wBE95Zpc"
+  },
+  "collection": {
+    "name": "Mythic Market",
+    "family": "Greek"
   },
   "properties": {
     "files": [
